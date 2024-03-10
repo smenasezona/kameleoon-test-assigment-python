@@ -1,5 +1,5 @@
 import json
-from http_utils import HttpUtils
+from app.http_utils import HttpUtils
 
 
 class WeatherDataParser:

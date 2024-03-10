@@ -1,5 +1,5 @@
 import time
-from weather_data_parser import WeatherDataParser
+from app.weather_data_parser import WeatherDataParser
 
 
 class WeatherSDK:
